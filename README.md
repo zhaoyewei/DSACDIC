@@ -13,6 +13,7 @@ Torch 1.1.1
 `python main.py`
 
 # Citation
+`
 InProceedings{Zhao_2024_WACV,
     author    = {Zhao, Yewei and Han, Hu and Shan, Shiguang and Chen, Xilin},
     title     = {Deep Subdomain Alignment for Cross-Domain Image Classification},
@@ -21,3 +22,4 @@ InProceedings{Zhao_2024_WACV,
     year      = {2024},
     pages     = {2820-2829}
 }
+`
