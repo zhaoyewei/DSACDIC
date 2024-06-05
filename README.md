@@ -32,11 +32,11 @@ mail to: zhaoyewei21@mails.ucas.ac.cn
 # Citation
 `
 InProceedings{Zhao_2024_WACV,
-    author    = {Zhao, Yewei and Han, Hu and Shan, Shiguang and Chen, Xilin},
-    title     = {Deep Subdomain Alignment for Cross-Domain Image Classification}
-    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-    month     = {January},
-    year      = {2024},
-    pages     = {2820-2829}
+    author    = {Zhao, Yewei and Han, Hu and Shan, Shiguang and Chen, Xilin},  
+    title     = {Deep Subdomain Alignment for Cross-Domain Image Classification},  
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},  
+    month     = {January},  
+    year      = {2024},  
+    pages     = {2820-2829}  
 }
 `
